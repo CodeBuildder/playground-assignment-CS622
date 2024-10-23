@@ -142,4 +142,3 @@ Feel free to explore the live demo at [Particle Visualization Demo](https://part
 
 ---
 
-Let me know if you need any more changes!
