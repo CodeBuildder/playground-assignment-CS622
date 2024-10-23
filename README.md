@@ -1,10 +1,17 @@
-Here’s an updated README tailored for your **React + Vite** setup.
+Here’s the updated README with your **deployment link** included.
 
 ---
 
 # **Interactive Particle Visualization with React and Vite**
 
 This project demonstrates a **highly customizable particle visualization** using **React** and the `react-tsparticles` library, bundled with **Vite** for fast development. It provides users with real-time control over the particle configuration, such as **color, shape, speed, and count**. The particle system reacts to mouse interactions like **hover and click** for enhanced interactivity.
+
+---
+
+## **Live Demo**
+
+Try out the **interactive particle visualization** here:  
+👉 [Particle Visualization Demo](https://particlejssetup.netlify.app/)
 
 ---
 
@@ -131,6 +138,8 @@ You can further extend this project by adding new shapes, integrating additional
 
 ---
 
-Feel free to explore and customize the project further! 🎉
+Feel free to explore the live demo at [Particle Visualization Demo](https://particlejssetup.netlify.app/) and customize it to suit your needs! 🎉
 
 ---
+
+Let me know if you need any more changes!
